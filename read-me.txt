@@ -1,0 +1,3 @@
+Comando para compilar:
+
+g++ -o pong pong.cpp -lGL -lGLU -lglut -lsfml-audio
